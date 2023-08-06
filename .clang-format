@@ -1,0 +1,10 @@
+﻿---
+AlignAfterOpenBracket: AlwaysBreak
+AlignEscapedNewlines: Left
+AlignOperands: 'true'
+AlignTrailingComments: 'true'
+AllowAllArgumentsOnNextLine: false
+ReflowComments: false
+UseTab: Always
+IndentWidth: 4
+TabWidth: 4
